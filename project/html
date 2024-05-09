@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Danh sách sự kiện</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+		.container {
+			width: 1400px;
+			margin: 10px ;
+			padding: 50px;
+			background-color: #ffffff;
+		}
+		.event {
+			margin-bottom: 30px;
+			padding: 10px;
+			border: 3px solid #ccc;
+			background-color: #f9f9f9;
+		}
+		.event-image {
+			width: 200px;
+			height: 150px;
+			object-fit: cover;
+			margin-right: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>Danh sách sự kiện</h1>
+        <div style="padding: 10px; border: 5px solid #7c7679; word-wrap: break-word;">
+			<div style="padding: 10px" 
+			<h2>Sự kiện từ thiện</h2> 
+			<img src="https://moitruongdulich.vn/mypicture/images/2311DULICHTUTHIENDSC0490JPG.jpg" alt="Event 1" class="https://toptentravel.com.vn/uploads/2021/04/su-kien-tu-thien.jpg">
+			<p>Thời gian: 08:00 AM - 10:00 AM</p>
+			<p>Địa điểm: Vùng núi Sơn La</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+        </div>
+        <div style="padding: 10px">
+        </div>
+		<div class="Sự kiện triển lãm">
+        <div style="padding: 5px; border: 5px solid #7c7679; word-wrap: break-word;">
+			<h3>Sự kiện triển lãm</h3>
+			<img src="https://congthuong-cdn.mastercms.vn/stores/news_dataimages/2023/032023/09/14/720230309140429.jpg?rt=20230309140909">
+			<p>Thời gian: 3:00 PM - 5:00 PM</p>
+			<p>Địa điểm: XYZ Hall</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+        </div>
+        <div style="padding: 10px">
+        </div>
+        <div style="padding: 5px; border: 5px solid #7c7679; word-wrap: break-word;">
+        <div class="Sự kiện hội thảo nghiên cứu">
+			<h3>Sự kiện hội thảo nghiên cứu</h3>
+			<img src="https://giadinh.phenikaa.com/wp-content/uploads/2023/08/1-2.webp" alt="https://hcmiu.edu.vn/wp-content/uploads/2022/12/DSC06133-scaled.jpg">
+			<p>Thời gian: 3:00 PM - 5:00 PM</p>
+			<p>Địa điểm: Center Hall</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+        </div>
+        <div style="padding: 10px">
+        </div>
+        <div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện âm nhạc">
+			<h3>Sự kiện âm nhạc</h3>
+			<img src="https://ss-images.saostar.vn/wpr700/2023/5/15/pc/1684147672923/saostar-8022af0p8rgss8hy.JPG">
+			<p>Thời gian: 3:00 PM - 5:00 PM</p>
+			<p>Địa điểm: Hải Phòng</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div> 
+		</div>
+		<div style="padding: 10px">
+        </div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện đại hội thể thao ">
+			<h3>Sự kiện đại hội thể thao</h3>
+		    <img src="https://cdnmedia.baotintuc.vn/Upload/ggrZaB6nUMyF1EMJeBk2Q/files/theducdungcu.jpg">
+			<p>Thời gian: 08:00 AM - 10:00 AM</p>
+			<p>Địa điểm: công viên Thanh Xuân</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+        </div>
+		<div style="padding: 10px">
+        </div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện truyền máu">
+			<h3>Sự kiện truyền máu</h3>
+			<img src="https://cdnmedia.baotintuc.vn/Upload/a7srThwxbojBCucvUWgnxA/files/2020/08/03/hien-mau-03082020.jpeg" alt="Event 1" class="https://cdnmedia.baotintuc.vn/Upload/a7srThwxbojBCucvUWgnxA/files/2020/08/03/hien-mau-03082020.jpeg">
+				<p>Thời gian: 08:00 AM - 11:00 AM</p>
+				<p>Địa điểm: Tòa A học viên BA</p>
+				<a href="event-detail.html">Xem chi tiết</a>
+			</div>
+			</div>
+		<div style="padding: 10px">
+		</div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện hướng nghiệp">
+			<img src="https://static.tuoitre.vn/tto/i/s626/2016/01/20/b01cef45.jpg" alt="Event 1" class="https://static.tuoitre.vn/tto/i/s626/2016/01/20/b01cef45.jpg">
+				<h3>Sự kiện hướng nghiệp 1</h3>
+				<p>Thời gian: 09:00AM - 05:00PM</p>
+				<p>Địa điểm: Sân vận động Bách Khoa</p>
+				<a href="event-detail.html">Xem chi tiết</a>
+			</div>
+			</div>
+		<div style="padding: 10px">
+		</div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện trồng cây">
+			<h3>Sự kiện trồng cây </h3>
+			<img src="https://media.thuonghieucongluan.vn/uploads/2021/01/25/csy-1611565706.jpg" alt="Event 1" class="https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/02/13/20220212110132_img_0073a-1644724846538.jpg">
+			<p>Thời gian: 09:00AM - 10:00AM</p>
+			<p>Địa điểm: Vườn cây Quốc Gia</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+		</div>
+		<div style="padding: 10px">
+		</div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện học bổng liên kết thế giới">
+			<h3>Sự kiện học bổng liên kết thế giới </h3>
+			<img src="https://vnpc.vn/public_img/10-04-2023_0b8.jpg" alt="Event 1" class="https://duhocedutime.edu.vn/wp-content/uploads/2021/02/du-hoc-uc-banner-354x450-1.jpg">
+			<p>Thời gian: 09:00AM - 05:00PM</p>
+			<p>Địa điểm: Tòa Gangnam</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+		</div>
+		<div style="padding: 10px">
+		</div>
+		<div style="padding: 4px; border: 5px solid #7c7679; word-wrap: break-word;">
+		<div class="Sự kiện tham quan doanh nghiệp">
+			<h3>Sự kiện tham quan doanh nghiệp</h3>
+			<img src="https://ktkdqt.ftu.edu.vn/wp-content/uploads/2022/06/Picture2-7.jpg" alt="Event 1" class="https://www.bctech.edu.vn/wp-content/uploads/2022/04/IMG_8752_f.jpg">
+			<p>Thời gian: 01:00PM - 05:00PM</p>
+			<p>Địa điểm: Doanh nghiệp Winmartt</p>
+			<a href="event-detail.html">Xem chi tiết</a>
+		</div>
+		</div>
+	</div>
+		<nav>
+			<a href="index.html">Trang chủ</a> |
+			<a href="create-event.html">
+        
